@@ -11,4 +11,5 @@ Content
   
 In this repository, you should find the following:  
 A 'Example_themes' directory, including two of the standard PHP-Fusion themes also used on 'Muks.dk'  
-Readme.md - You are reading this now.
+Readme.md - You are reading this now.  
+A 'docs' directory. This contains the documentation for how to create a theme.  
