@@ -1,1 +1,7 @@
+styles.css
+----------
 
+The 'styles.css' file contains the corresponding cascading style-sheet for the theme.
+That is to say, it contains the color definitions, where to put what images, and anything that has to do with the style itself, but not the structure of the page.
+THIS is THE MOST essential file you'll ever work with when you are creating a theme.
+If you need any help with CSS or any idea as to how important they can be, I highly suggest you visit ' http://csszengarden.com '. There are also some very good examples at what you can do, with some simple CSS code.
